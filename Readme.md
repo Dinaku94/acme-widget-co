@@ -15,7 +15,7 @@ The system supports adding products to a basket, applying special offers, calcul
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/acme-widget-co.git
+    git clone https://github.com/Dinaku94/acme-widget-co.git
     cd acme-widget-co
     ```
 
